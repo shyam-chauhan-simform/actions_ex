@@ -69,7 +69,7 @@ An intentionally vulnerable demo application used to showcase a comprehensive **
 
 ---
 
-## Intentional Vulnerabilities (Demo Targets)
+## Intentional Vulnerabilities (Demo Targets)lol
 
 | File | Vulnerability Type | Detected By |
 |------|--------------------|-------------|
